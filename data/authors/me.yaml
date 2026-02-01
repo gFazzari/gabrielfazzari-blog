@@ -1,0 +1,111 @@
+schema: hugoblox/author/v1
+slug: me
+is_owner: true
+name:
+  display: Gabriel Fazzari
+  given: Gabriel
+  family: Fazzari
+postnominals: []
+status:
+  icon: "💻"  # Emoji shown on avatar badge: 💻 developer, 🎨 designer, 🚀 startup, 🔬 researcher, 🎓 student
+role: Platform Engineer & Cybersecurity Architect
+email: gabrielfazzari1999@gmail.com
+bio: |
+  I'm a Platform Engineer with a strong cybersecurity background, passionate about containers and container orchestration.
+  I build secure, resilient cloud-native platforms with Kubernetes, CI/CD, and infrastructure as code.
+  Passionate about automation, scalability, and enabling teams to move fast.
+affiliations:
+  - name: EOLO S.p.A.
+    url: https://www.eolo.it/
+
+links:
+  - icon: at-symbol
+    url: mailto:gabrielfazzari1999@gmail.com
+    label: E-mail Me
+  - icon: brands/github
+    url: https://github.com/gFazzari
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/gabriel-fazzari/
+
+interests:
+  - Platform Engineering
+  - DevOps
+  - Kubernetes
+  - Cybersecurity
+  - Cloud Native
+
+education:
+  - degree: B.S. in Computer Science and Information Technology - Specialization in Computer and Network Systems Security
+    institution: Università degli Studi di Milano
+    start: 2018-09-01
+    end: 2021-06-30
+    summary: |
+      Graduated with honors  
+      Focusing on cybersecurity, network security, and secure software development  
+      Completed a thesis on "RDP brute-force attack detection: development and integration of a machine learning approach in an enterprise SIEM"  
+      Relevant coursework: Network Security, Cryptography, Software Development, Artificial Intelligence, Database Systems.
+
+experience:
+  - role: Cybersecurity Architect
+    org: Eolo S.p.A
+    start: 2023-04-15
+    summary: |
+      Manage and evolve the multi-cluster Kubernetes on-prem environment (Rancher RKE2)  
+      Design, build, and operate an on-premise Splunk infrastructure  
+      Lead the introduction and company-wide rollout of the CrowdStrike XDR agent  
+      Introduce and manage PAM and Identity Management solutions  
+      Implement Cloudflare across the entire public-facing perimeter  
+      Develop multiple microservices in Python  
+  - role: DevSecOps Engineer
+    org: Datrix - Al Solutions Group
+    start: 2021-07-01
+    end: 2023-04-15
+    summary: |
+      Manage and evolve the Kubernetes on-prem environment (Rancher K3S) using CI/CD pipelines and IaC  
+      Build CI/CD infrastructure with mostly Open Source technologies  
+      Promote containerization and Cloud Native technologies  
+      Take part in an EU project related to cybersecurity  
+      Automate tasks and improve the security of GCP projects  
+  - role: Cybersecurity Architect & Cybersecurity Specialist
+    org: CybergOn
+    start: 2021-03-01
+    end: 2022-07-01
+    summary: |
+      Design of new cybersecurity services  
+      Development and integration of a logs ingestor written in Go  
+      Manage different Kubernetes on-prem clusters  
+      Design and maintain an effective CI/CD strategy for managing GitOps repositories  
+      Monitoring and analysis of client’s environment and alerts  
+      Handle security incidents in coordination with internal and external stakeholders  
+      Tuning of SIEM platforms and relative queries creation  
+      Installation and use of different cybersecurity tools (antivirus, EDR, XDR...)  
+      Vulnerability assessment on different infrastructures
+skills:
+  - name: Development
+    items:
+      - label: TypeScript
+        level: 5
+      - label: React
+        level: 5
+      - label: Node.js
+        level: 5
+      - label: Python
+        level: 4
+  - name: DevOps
+    items:
+      - label: Docker
+        level: 4
+      - label: AWS
+        level: 4
+      - label: CI/CD
+        level: 5
+
+languages:
+  - name: English
+    level: 4
+    label: Fluent
+  - name: Italian
+    level: 5
+    label: Native
+
+awards: []
