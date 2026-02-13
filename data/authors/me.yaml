@@ -49,7 +49,7 @@ experience:
   - role: Cybersecurity Architect
     org: Eolo S.p.A
     start: 2023-04-15
-    highlights:
+    summary: |
       - Manage and evolve the multi-cluster Kubernetes on-prem environment (Rancher RKE2)  
       - Design, build, and operate an on-premise Splunk infrastructure  
       - Lead the introduction and company-wide rollout of the CrowdStrike XDR agent  
@@ -60,7 +60,7 @@ experience:
     org: Datrix - Al Solutions Group
     start: 2021-07-01
     end: 2023-04-15
-    highlights:
+    summary: |
       - Manage and evolve the Kubernetes on-prem environment (Rancher K3S) using CI/CD pipelines and IaC  
       - Build CI/CD infrastructure with mostly Open Source technologies  
       - Promote containerization and Cloud Native technologies  
@@ -70,16 +70,16 @@ experience:
     org: CybergOn
     start: 2021-03-01
     end: 2022-07-01
-    highlights:
-      - Design of new cybersecurity services  
-      - Development and integration of a logs ingestor written in Go  
-      - Manage different Kubernetes on-prem clusters  
-      - Design and maintain an effective CI/CD strategy for managing GitOps repositories  
-      - Monitoring and analysis of client’s environment and alerts  
-      - Handle security incidents in coordination with internal and external stakeholders  
-      - Tuning of SIEM platforms and relative queries creation  
-      - Installation and use of different cybersecurity tools (antivirus, EDR, XDR...)  
-      - Vulnerability assessment on different infrastructures
+    summary: |
+      • Design of new cybersecurity services  
+      • Development and integration of a logs ingestor written in Go  
+      • Manage different Kubernetes on-prem clusters  
+      • Design and maintain an effective CI/CD strategy for managing GitOps repositories  
+      • Monitoring and analysis of client’s environment and alerts  
+      • Handle security incidents in coordination with internal and external stakeholders  
+      • Tuning of SIEM platforms and relative queries creation  
+      • Installation and use of different cybersecurity tools (antivirus, EDR, XDR...)  
+      • Vulnerability assessment on different infrastructures
 skills:
   - name: Cyberecurity
     items:
