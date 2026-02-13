@@ -50,7 +50,7 @@ The site will be available at:
 http://localhost:1313
 ```
 
-## Deployment
+## 🌍 Deployment
 
 Production deployment is handled by Cloudflare Pages, connected directly to this repository.
 

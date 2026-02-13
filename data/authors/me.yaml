@@ -12,7 +12,7 @@ role: Platform Engineer & Cybersecurity Architect
 email: gabrielfazzari1999@gmail.com
 bio: |
   I'm a Platform Engineer with a strong cybersecurity background, passionate about containers and container orchestration.
-  I build secure, resilient cloud-native platforms with Kubernetes, CI/CD, and infrastructure as code.
+  I build secure by design, resilient cloud-native platforms with Kubernetes, CI/CD, and infrastructure as code.
   Passionate about automation, scalability, and enabling teams to move fast.
 affiliations:
   - name: EOLO S.p.A.
@@ -30,8 +30,8 @@ links:
 interests:
   - Platform Engineering
   - DevOps
-  - Kubernetes
   - Cybersecurity
+  - Kubernetes
   - Cloud Native
 
 education:
@@ -50,54 +50,68 @@ experience:
     org: Eolo S.p.A
     start: 2023-04-15
     summary: |
-      Manage and evolve the multi-cluster Kubernetes on-prem environment (Rancher RKE2)  
-      Design, build, and operate an on-premise Splunk infrastructure  
-      Lead the introduction and company-wide rollout of the CrowdStrike XDR agent  
-      Introduce and manage PAM and Identity Management solutions  
-      Implement Cloudflare across the entire public-facing perimeter  
-      Develop multiple microservices in Python  
+      - Manage and evolve the multi-cluster Kubernetes on-prem environment (Rancher RKE2)  
+      - Design, build, and operate an on-premise Splunk infrastructure  
+      - Lead the introduction and company-wide rollout of the CrowdStrike XDR agent  
+      - Introduce and manage PAM and Identity Management solutions  
+      - Implement Cloudflare across the entire public-facing perimeter  
+      - Develop multiple microservices in Python
   - role: DevSecOps Engineer
     org: Datrix - Al Solutions Group
     start: 2021-07-01
     end: 2023-04-15
     summary: |
-      Manage and evolve the Kubernetes on-prem environment (Rancher K3S) using CI/CD pipelines and IaC  
-      Build CI/CD infrastructure with mostly Open Source technologies  
-      Promote containerization and Cloud Native technologies  
-      Take part in an EU project related to cybersecurity  
-      Automate tasks and improve the security of GCP projects  
+      - Manage and evolve the Kubernetes on-prem environment (Rancher K3S) using CI/CD pipelines and IaC  
+      - Build CI/CD infrastructure with mostly Open Source technologies  
+      - Promote containerization and Cloud Native technologies  
+      - Take part in an EU project related to cybersecurity  
+      - Automate tasks and improve the security of Google Cloud projects  
   - role: Cybersecurity Architect & Cybersecurity Specialist
     org: CybergOn
     start: 2021-03-01
     end: 2022-07-01
     summary: |
-      Design of new cybersecurity services  
-      Development and integration of a logs ingestor written in Go  
-      Manage different Kubernetes on-prem clusters  
-      Design and maintain an effective CI/CD strategy for managing GitOps repositories  
-      Monitoring and analysis of client’s environment and alerts  
-      Handle security incidents in coordination with internal and external stakeholders  
-      Tuning of SIEM platforms and relative queries creation  
-      Installation and use of different cybersecurity tools (antivirus, EDR, XDR...)  
-      Vulnerability assessment on different infrastructures
+      - Design of new cybersecurity services  
+      - Development and integration of a logs ingestor written in Go  
+      - Manage different Kubernetes on-prem clusters  
+      - Design and maintain an effective CI/CD strategy for managing GitOps repositories  
+      - Monitoring and analysis of client’s environment and alerts  
+      - Handle security incidents in coordination with internal and external stakeholders  
+      - Tuning of SIEM platforms and relative queries creation  
+      - Installation and use of different cybersecurity tools (antivirus, EDR, XDR...)  
+      - Vulnerability assessment on different infrastructures
 skills:
+  - name: Cyberecurity
+    items:
+      - label: SIEM
+        level: 5
+      - label: EDR/XDR
+        level: 5
+      - label: PAM/Identity Management
+        level: 5
+      - label: Cloudflare
+        level: 4
+      - label: Vulnerability Assessment
+        level: 4
   - name: Development
     items:
-      - label: TypeScript
+      - label: Bash
         level: 5
-      - label: React
-        level: 5
-      - label: Node.js
-        level: 5
+      - label: Go
+        level: 3
       - label: Python
         level: 4
   - name: DevOps
     items:
       - label: Docker
         level: 4
-      - label: AWS
-        level: 4
+      - label: Kubernetes
+        level: 5
       - label: CI/CD
+        level: 4
+      - label: Terraform
+        level: 3
+      - label: GitOps
         level: 5
 
 languages:
