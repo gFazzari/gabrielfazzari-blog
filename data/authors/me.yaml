@@ -50,12 +50,14 @@ experience:
     org: Eolo S.p.A
     start: 2023-04-15
     summary: |
-      - Manage and evolve the multi-cluster Kubernetes on-prem environment (Rancher RKE2)  
-      - Design, build, and operate an on-premise Splunk infrastructure  
-      - Lead the introduction and company-wide rollout of the CrowdStrike XDR agent  
-      - Introduce and manage PAM and Identity Management solutions  
-      - Implement Cloudflare across the entire public-facing perimeter  
-      - Develop multiple microservices in Python
+      # - Manage and evolve the multi-cluster Kubernetes on-prem environment (Rancher RKE2)  
+      # - Design, build, and operate an on-premise Splunk infrastructure  
+      # - Lead the introduction and company-wide rollout of the CrowdStrike XDR agent  
+      # - Introduce and manage PAM and Identity Management solutions  
+      # - Implement Cloudflare across the entire public-facing perimeter  
+      # - Develop multiple microservices in Python
+      crecrwcrcwrfr42
+      cerwcwrfv24wf
   - role: DevSecOps Engineer
     org: Datrix - Al Solutions Group
     start: 2021-07-01
