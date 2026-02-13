@@ -169,13 +169,13 @@ sections:
     content:
       title: "Open to Opportunities"
       text: |-
-        I'm currently looking for **senior engineering** or **tech lead** roles.
+        I'm currently looking for **platform engineering** or **cybersecurity architect** roles.
         
         Let's connect and discuss how I can help your team.
-      button:
-        text: 'Download Resume'
-        url: uploads/resume.pdf
-        new_tab: true
+      # button:
+      #   text: 'Download Resume'
+      #   url: uploads/resume.pdf
+      #   new_tab: true
     design:
       card:
         # Light mode: soft pastel theme gradient | Dark mode: rich deep gradient
