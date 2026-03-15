@@ -41,6 +41,17 @@ node_modules/
 .env.local
 .env.*.local
 
+# Terraform secrets
+**/terraform.tfvars
+**/terraform.tfvars.json
+**/*.auto.tfvars
+**/*.auto.tfvars.json
+
+# Terraform working directory
+**/.terraform/
+**/.terraform.lock.hcl
+**/terraform*
+
 # ============================================================================
 # Generated Content
 # ============================================================================

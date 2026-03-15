@@ -22,8 +22,8 @@ sections:
         enable: true
         prefix: "I build"
         strings:
-          - "scalable Kubernetes infrastructures"
-          - "cloud-native platforms with security by design"
+          - "scalable cloud-native infrastructures"
+          - "secure by design platforms"
           - "foundations built on automation and infrastructure as code"
         type_speed: 70
         delete_speed: 40
@@ -50,12 +50,26 @@ sections:
       title: "Tech Stack"
       subtitle: "Technologies I use to build things"
       categories:
+        - name: Cybersecurity
+          items:
+            - name: Splunk
+              icon: custom/splunk
+            - name: Crowdstrike
+              icon: custom/crowdstrike1
+            - name: Cloudflare
+              icon: devicon/cloudflare
+            - name: Sonarqube
+              icon: devicon/sonarqube
+            - name: Trivy
+              icon: custom/trivy
         - name: DevOps
           items:
             - name: Kubernetes
               icon: devicon/kubernetes
             - name: Rancher
               icon: devicon/rancher
+            - name: RedHat Openshift
+              icon: custom/openshift
             - name: Docker
               icon: devicon/docker
             - name: Ansible
@@ -84,18 +98,6 @@ sections:
               icon: devicon/gitlab
             - name: Github
               icon: devicon/github
-        - name: Cybersecurity
-          items:
-            - name: Splunk
-              icon: custom/splunk
-            - name: Crowdstrike
-              icon: custom/crowdstrike1
-            - name: Cloudflare
-              icon: devicon/cloudflare
-            - name: Sonarqube
-              icon: devicon/sonarqube
-            - name: Trivy
-              icon: custom/trivy
     design:
       style: grid
       show_levels: false
@@ -169,8 +171,7 @@ sections:
     content:
       title: "Open to Opportunities"
       text: |-
-        I'm currently looking for **platform engineering** or **cybersecurity architect** roles.
-        
+        I'm currently looking for **platform engineering** or **cybersecurity architect** roles.  
         Let's connect and discuss how I can help your team.
       # button:
       #   text: 'Download Resume'

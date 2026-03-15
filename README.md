@@ -1,11 +1,11 @@
-# 🌐 HugoBlox Website
+# Gabriel Fazzari blog
 
 Static website built with **Hugo** and **HugoBlox**, deployed on **Cloudflare Pages**.  
 The infrastructure (Pages project, custom domain, DNS) is managed using **Terraform**.
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
 - **Hugo** – Static Site Generator
 - **HugoBlox** – Hugo framework/theme
@@ -32,9 +32,8 @@ The infrastructure (Pages project, custom domain, DNS) is managed using **Terraf
 
 ---
 
-## 🧑‍💻 Local Development
+## Local Development prerequisites
 
-### Prerequisites
 - Hugo (compatible with HugoBlox)
 - Go (required for Hugo Modules)
 

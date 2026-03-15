@@ -28,9 +28,9 @@ links:
     url: https://www.linkedin.com/in/gabriel-fazzari/
 
 interests:
+  - Cybersecurity
   - Platform Engineering
   - DevOps
-  - Cybersecurity
   - Kubernetes
   - Cloud Native
 
@@ -40,9 +40,9 @@ education:
     start: 2018-09-01
     end: 2021-06-30
     summary: |
-      Graduated with honors  
-      Focusing on cybersecurity, network security, and secure software development  
-      Completed a thesis on "RDP brute-force attack detection: development and integration of a machine learning approach in an enterprise SIEM"  
+      Graduated with honors.  
+      Focusing on cybersecurity, network security, and secure software development.  
+      Completed a thesis on "RDP brute-force attack detection: development and integration of a machine learning approach in an enterprise SIEM".  
       Relevant coursework: Network Security, Cryptography, Software Development, Artificial Intelligence, Database Systems.
 
 experience:
@@ -50,22 +50,23 @@ experience:
     org: Eolo S.p.A
     start: 2023-04-15
     summary: |
-      - Manage and evolve the multi-cluster Kubernetes on-prem environment (Rancher RKE2)  
-      - Design, build, and operate an on-premise Splunk infrastructure  
-      - Lead the introduction and company-wide rollout of the CrowdStrike XDR agent  
-      - Introduce and manage PAM and Identity Management solutions  
-      - Implement Cloudflare across the entire public-facing perimeter  
-      - Develop multiple microservices in Python
+      • Manage and evolve the multi-cluster Kubernetes on-prem environment (Rancher RKE2)  
+      • Design, build, and operate an on-premise Splunk infrastructure  
+      • Lead the introduction and company-wide rollout of the CrowdStrike XDR agent  
+      • Introduce and manage PAM and Identity Management solutions  
+      • Implement Cloudflare across the entire public-facing perimeter  
+      • Introduce a Mobile Device Management solution across the company  
+      • Develop multiple microservices in Python
   - role: DevSecOps Engineer
     org: Datrix - Al Solutions Group
     start: 2021-07-01
     end: 2023-04-15
     summary: |
-      - Manage and evolve the Kubernetes on-prem environment (Rancher K3S) using CI/CD pipelines and IaC  
-      - Build CI/CD infrastructure with mostly Open Source technologies  
-      - Promote containerization and Cloud Native technologies  
-      - Take part in an EU project related to cybersecurity  
-      - Automate tasks and improve the security of Google Cloud projects  
+      • Manage and evolve the Kubernetes on-prem environment (Rancher K3S) using CI/CD pipelines and IaC  
+      • Build CI/CD infrastructure with mostly Open Source technologies  
+      • Automate tasks and improve the security of Google Cloud projects  
+      • Promote containerization and Cloud Native technologies across the company  
+      • Take part in an EU project related to cybersecurity  
   - role: Cybersecurity Architect & Cybersecurity Specialist
     org: CybergOn
     start: 2021-03-01
