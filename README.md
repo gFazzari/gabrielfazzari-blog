@@ -18,14 +18,14 @@ The infrastructure (Pages project, custom domain, DNS) is managed using **Terraf
 
 ## 📁 Repository Structure
 
-├── assets/ # static assets
-├── content/ # blog and post 
-├── data/ # author info
-├── static/ # uploads
-├── config/ # Hugo config
-├── go.mod / go.sum # Hugo Modules (HugoBlox)
-├── infra/ # Terraform
-└── README.md
+├── assets/ # static assets  
+├── content/ # blog and post  
+├── data/ # author info  
+├── static/ # uploads  
+├── config/ # Hugo config  
+├── go.mod / go.sum # Hugo Modules (HugoBlox)  
+├── infra/ # Terraform  
+└── README.md  
 
 
 > The `public/` and `resources/` directories are **not versioned** because they are generated automatically by Hugo.
